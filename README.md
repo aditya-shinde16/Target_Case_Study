@@ -19,7 +19,7 @@ The dataset contains 8 tables as mentioned below -
 8. products
 
 ## ❓ Questions Asked
-The project report includes a comprehensive analysis, insights, and actionable recommendations in response to the following questions. For detailed information, please refer to the [report](https://github.com/aditya-shinde16/Target_Case_Study/blob/main/Target_Project.pdf).
+The project report includes a comprehensive analysis, insights, and actionable recommendations in response to the following questions. For detailed information, please refer to the [Target](https://aditya-shinde16.github.io/Target_Case_Study/Target_Project.pdf) to view the report.
 
 Exploratory Data Analysis	
 1. Structure of the dataset	
