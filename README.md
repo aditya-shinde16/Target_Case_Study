@@ -1,11 +1,12 @@
 # 🔍 Exploring E-commerce Trends and Customer Behaviour
-An exploratory and in-depth study of the e-commerce market in Brazil
+An exploratory and in-depth study of the e-commerce market in Brazil.  
 
 ## 📚 About Project
 This particular business study focuses on the operations of `Target` in `Brazil` and provides insightful information about 100,000 orders placed between 2016 and 2018. 
 
 In this study, the given dataset has been analysed to extract valuable insights from various aspects of the business and to suggest actionable recommendations. `BigQuery` was used for writing SQL queries and fetching data from dataset. `PowerBI` and `Tableau` were used for creating visualisations.
 
+Complete project report - [Target](https://aditya-shinde16.github.io/Target_Case_Study/Target_Project.pdf)
 ## 🧾 About Data
 The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
 The dataset contains 8 tables as mentioned below -
