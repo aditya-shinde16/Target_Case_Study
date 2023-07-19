@@ -53,3 +53,5 @@ Analysis based on sales, freight and delivery time
 Analysis based on the payments	
 1. Monthly Order Placement by Payment Types?	
 2. Order Placement Analysis based on Paid Instalments?	
+
+![Target_FP](https://github.com/aditya-shinde16/Target_Case_Study/assets/120565625/e176168c-4236-49c2-86ce-64ff7c7e68ad)
